@@ -6,15 +6,6 @@ Analyzing Sports insights on Twitter, Reddit and Youtube
 Sites like Twitter, Reddit and Youtube have given people a platform to engage with a single piece of content in many different ways. For developers, this presents an opportunity to measure different metrics on different platforms, and derive insights from the vast amount of data being generated. 
 We have two major sporting events comingup: FIFA World cup Qatar 2022 and ICC Men’s T20 Worldcup. In this project, we use three major social media platforms: Twitter, Reddit and Youtube to analyze the popularity of these events indifferent parts of the world, the athletes and how the public engages with them and lastly, abusive content generated through thecourse of the events.
 
-## Team - Data Doggers
-
-* Pradnya Bhukan, pbhukan1@binghamton.edu
-* Chelsea Olivia Fernandes, cferna10@binghamton.edu
-* Sakshi Mendiratta, smendir1@binghamton.edu
-* Tejal RahulDaga, tdaga1@binghamton.edu
-* Jwalant Vishvesh Bhatt, jbhatt2@binghamton.edu
-
-
 ## Tech-stack
 
 * `python` - The project is developed and tested using python v3.8. [Python Website](https://www.python.org/)
