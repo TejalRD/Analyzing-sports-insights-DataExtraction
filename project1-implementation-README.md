@@ -1,5 +1,5 @@
-## Project Title 
-Analyzing Sports insights on Twitter, Reddit and Youtube
+Analyzing Sports insights on Twitter, Reddit and Youtube 
+
 
 ## Project Abstract
 
